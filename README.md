@@ -4,9 +4,9 @@ Software Requirements and Architectures (Requisitos e Arquiteturas de Software)
 
 ## PROBUM
 
-This project simulates the role of a software architect in designing an online tests e-learning platform. The platform was intended to coexist with, not replace, a university's existing e-learning system.
+This project simulates the design of an online testing platform for a university, aiming to complement their existing e-learning system.  Through three collaborative phases, a team of students identified user needs, designed a scalable architecture, and built a basic prototype.
 
-Throughout the project, collaboration was key as we worked in teams to achieve the following phases
+Throughout these phases, a comprehensive requirements document served as the central source of truth, ensuring everyone was aligned on the platform's functionalities and technical specifications.
 
 ### Phase 1 - Requirements Gathering
 
@@ -35,8 +35,6 @@ Check project [here](Phase3)
 
 Grade 14.50/20.00
 
-### Deliverables
+### Requirements Document
 
 Throughout these phases, a crucial deliverable was the requirements document. This document served as a vital source of truth, capturing all the functionalities, features, and technical specifications of the platform. It ensured everyone involved was on the same page and provided a clear roadmap for future development.
-
-
