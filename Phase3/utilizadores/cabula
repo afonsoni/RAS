@@ -1,0 +1,9 @@
+
+# Cria a base de dados, ⚠ APAGA TUDO O QUE TINHA ANTES
+
+sqlite3 db/users.db < db/utilizadores.sql
+
+# ve que processos estão a aceder a base de dados
+sudo fuser -v db/users.db
+    -k para matar
+

@@ -1,0 +1,6 @@
+.DS_Store
+Phase3/salas/node_modules
+Phase3/frontend/node_modules
+Phase3/notification/node_modules
+Phase3/Provas/node_modules
+Phase3/utilizadores/__pycache__
